@@ -7,6 +7,6 @@ int main(){
 
 
 
-
+	printf("OI");
 	return 0;
 }
